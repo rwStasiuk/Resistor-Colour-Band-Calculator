@@ -1,4 +1,4 @@
-# JSONDB — Lightweight JSON Database Engine
+# Resistor Colour Band Encoder/Decoder
 **FILENAME:** README.md  
 **VERSION:** 1  
 **AUTHOR:** Reid Stasiuk  
