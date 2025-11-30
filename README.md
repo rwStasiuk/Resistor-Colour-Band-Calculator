@@ -14,6 +14,7 @@ The resistor colour band calculator is a simple command-line program that can be
 To use the program, simply download the files from the repository and open the ResistorsMain file with Python. When a user runs the main file in a CLI, they will be prompted to choose whether they want to encode or decode a resistor, before they are asked for the required colour band or numerical data. The user can repeat as many times as they would like.
 
 Resistance value in the following range are supported: 10Ω < R < 9.99GΩ
+
 Tolerance percentages in the following list are supported: 0.05%, 0.10%, 0.25%, 0.50%, 1%, 2%, 5%, 10%
 
 ---
